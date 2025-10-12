@@ -4,6 +4,9 @@
 
 ![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=nightowl&layout=compact)
+
+
 <!--
 **johnny-shaman/johnny-shaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
