@@ -2,8 +2,8 @@
 
 [<img src="./Sign_logo.svg"  alt="Sign Logo" style="display:block; width:128px; margin:1.62%;"/>](https://github.com/johnny-shaman/sign)
 
-![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=aura&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=aura&hide_border=true&layout=donut)
+![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=nightowl&hide_border=true&layout=donut)
 
 
 <!--
