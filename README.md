@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&layout=donut)
 
-
+[<img src="./Buy_Me_a_Coffee.gifalt="Sign Logo" style="display:block; margin:1.62% auto;"/>](https://buymeacoffee.com/johnny_shaman)
 <!--
 **johnny-shaman/johnny-shaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
