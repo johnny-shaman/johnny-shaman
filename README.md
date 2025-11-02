@@ -1,4 +1,4 @@
-## Hi 👋 I'm Design a Sign Language
+## Hi 👋 I'm Designed the Sign Language
 
 [<img src="./Sign_logo.svg"  alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)
 
