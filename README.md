@@ -7,7 +7,8 @@
 
 ![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&layout=donut)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnny-shaman&theme=nightowl&hide_border=true&short_numbers=true&card_width=894)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnny-shaman&theme=nightowl&hide_border=true&short_numbers=true&mode=weekly&card_width=894)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnny-shaman&theme=discord&no-bg=true)](https://github.com/johnny-shaman/)
 ---
