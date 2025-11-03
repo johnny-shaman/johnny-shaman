@@ -6,9 +6,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnny-shaman)](https://github.com/johnny-shaman/)
 
+<p align="center">
+
 [<img src="./Sign_logo.svg"  alt="Sign Logo" style="width:128px;padding"/>](https://github.com/johnny-shaman/sign)
 
 [<img src="./my_bmc_button.svg"  alt="☕ Buy me a Coffee ☕" style="width:256px;"/>](https://buymeacoffee.com/johnny_shaman)
+
+</p>
 <!--
 **johnny-shaman/johnny-shaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
