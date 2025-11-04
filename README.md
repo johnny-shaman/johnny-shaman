@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Hi 👋 I'm Designed the Sign Language
+
 &emsp; [<img src="./white_cats_logo.svg" alt="_(white_cats)._" style="height:128px;"/>](https://github.com/johnny-shaman/white_cats) &emsp;
 &emsp; [<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign) &emsp;
 &emsp; [<img src="./dsand_logo.svg" alt="_(white_cats)._" style="width:256px;"/>](https://github.com/johnny-shaman/dsand) &emsp;
@@ -8,7 +9,9 @@
 
 ![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&layout=donut)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnny-shaman&theme=nightowl&hide_border=true&short_numbers=true&mode=weekly&card_width=894)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnny-shaman&theme=discord&no-bg=true&column=3)](https://github.com/johnny-shaman/)
 ---
 </div>
