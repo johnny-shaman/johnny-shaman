@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi 👋 I'm Designed the Sign Language
-[<img src="./white_cats_logo.svg" alt="_(white_cats)._" style="width:128px;"/>](https://github.com/johnny-shaman/white_cats)
+[<img src="./white_cats_logo.svg" alt="_(white_cats)._" style="height:128px;"/>](https://github.com/johnny-shaman/white_cats)
 [<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)
 ---
 
