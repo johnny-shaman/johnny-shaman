@@ -2,9 +2,7 @@
 
 ## 👇️ Hi 👋 I'm Shin-ichi and I have Designed There Rep's. 👇️
 
-[<img src="./white_cats_logo.svg" alt="_(white_cats)._" style="height:128px;"/>](https://github.com/johnny-shaman/white_cats)&emsp;
-[<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)&emsp;
-[<img src="./dsand_logo.svg" alt="_(white_cats)._" style="width:256px;"/>](https://github.com/johnny-shaman/dsand)
+[<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)
 ---
 
 ![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
