@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👇️ Hi 👋 I'm Shin-ichi and I have Designed There Rep. 👇️
+## 👇️ Hi 👋 I'm Shin-ichi and I have Designed There Rep's. 👇️
 
 [<img src="./white_cats_logo.svg" alt="_(white_cats)._" style="height:128px;"/>](https://github.com/johnny-shaman/white_cats)&emsp;
 [<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)&emsp;
@@ -11,9 +11,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&layout=donut)
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnny-shaman&theme=discord&no-bg=true&column=3)](https://github.com/johnny-shaman/)
 ---
-</div>
 
-<div align="right">
+## 👇️ Donate Me Please 👇️
 
 [<img src="./my_bmc_button.svg"  alt="☕ Buy me a Coffee ☕" style="width:256px;"/>](https://buymeacoffee.com/johnny_shaman)
 </div>
