@@ -12,7 +12,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnny-shaman&theme=discord&no-bg=true&column=3)](https://github.com/johnny-shaman/)
 ---
 
-## 👇️ Donate Me Please 👇️
+## 👇️ Please Donate Me 👇️
 
 [<img src="./my_bmc_button.svg"  alt="☕ Buy me a Coffee ☕" style="width:256px;"/>](https://buymeacoffee.com/johnny_shaman)
 </div>
