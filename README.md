@@ -3,7 +3,6 @@
 ## Hi 👋 I'm Designed the Sign Language
 
 [<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)
-
 ---
 
 ![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
