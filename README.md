@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 🖖 I'm Designed the Sign Language And thinking it implementation!
+## Hi 🖖 I'm Designed the Sign
 [<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)
 ## ✨️Achievements✨️
 [<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="Starstruck" style="width:128px;"/>](https://github.com/users/johnny-shaman/achievements/starstruck)
