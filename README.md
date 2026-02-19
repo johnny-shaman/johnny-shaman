@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi 🖖 I'm Designed the Sign !
-[<img src="./Sign_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)
+[<img src="https://raw.githubusercontent.com/johnny-shaman/Sign/refs/heads/main/animate_logo.svg" alt="Sign Logo" style="width:256px;"/>](https://github.com/johnny-shaman/sign)
 ----
 [![trophy](https://trophy.ryglcloud.net/?username=johnny-shaman&theme=discord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
