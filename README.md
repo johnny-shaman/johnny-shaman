@@ -3,7 +3,12 @@
 ## Hi 🖖 I'm Designed the Sign !
 [<img src="https://raw.githubusercontent.com/johnny-shaman/Sign/refs/heads/main/animate_logo.svg" alt="Sign Logo" style="width:128px;"/>](https://github.com/johnny-shaman/sign)
 ----
+[![github-readme-stats](https://github-readme-stats-blush-five-17.vercel.app/api?username=johnny-shaman&theme=aura&hide_border=true&bg_color=00000000&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![github-readme-stats](https://github-readme-stats-blush-five-17.vercel.app/api/top-langs/?username=johnny-shaman&theme=aura&layout=donut&hide_border=true&bg_color=00000000&count_private=true&)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://trophy.ryglcloud.net/?username=johnny-shaman&theme=discord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=johnny-shaman&theme=aura&short_numbers=true&date_format=%5BY.%5Dn.j&background=00000000&border=00000000)](https://git.io/streak-stats)
 
 <!--
 ![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
