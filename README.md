@@ -8,8 +8,6 @@
 
 [![trophy](https://trophy.ryglcloud.net/?username=johnny-shaman&theme=discord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=johnny-shaman&theme=aura&short_numbers=true&date_format=%5BY.%5Dn.j&background=00000000&border=00000000)](https://git.io/streak-stats)
-
 <!--
 ![Shinichi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-shaman&theme=nightowl&bg_color=0D1117&hide_border=true&layout=donut)
