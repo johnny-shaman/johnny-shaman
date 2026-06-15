@@ -5,8 +5,7 @@
 ----
 [![github-readme-stats](https://github-readme-stats-blush-five-17.vercel.app/api?username=johnny-shaman&theme=aura&hide_border=true&bg_color=00000000&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&)](https://github.com/anuraghazra/github-readme-stats)[![github-readme-stats](https://github-readme-stats-blush-five-17.vercel.app/api/top-langs/?username=johnny-shaman&theme=aura&layout=donut&hide_border=true&bg_color=00000000&count_private=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://trophy.ryglcloud.net/?username=johnny-shaman&theme=discord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy-my-trophy.vercel.app/?username=johnny-shaman&theme=discord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <!--
